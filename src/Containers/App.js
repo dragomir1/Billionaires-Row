@@ -1,5 +1,5 @@
 import React from 'react';
-import './configuration/firebase.js';
+import '../configuration/firebase.js';
 import './App.css';
 
 function App() {
